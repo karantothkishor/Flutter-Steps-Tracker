@@ -158,7 +158,7 @@ class _RewardsItemState extends State<RewardsItem> {
               }
             : null,
         style: ElevatedButton.styleFrom(
-          primary: Theme.of(context).scaffoldBackgroundColor,
+          //primary: Theme.of(context).scaffoldBackgroundColor,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(8.0),
             side: BorderSide(

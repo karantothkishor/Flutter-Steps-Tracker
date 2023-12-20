@@ -13,12 +13,12 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_localizations:
     sdk: flutter
-  pedometer: ^3.0.0
-  firebase_core: ^1.17.1
-  firebase_auth: ^3.3.19
-  cloud_firestore: ^3.1.17
+  pedometer: ^4.0.1
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
   get_it: ^7.2.0
-  injectable: ^1.5.3
+  injectable: ^2.3.2
   freezed: ^2.0.3+1
   freezed_annotation: ^2.0.3
   provider: ^6.0.3
@@ -26,19 +26,19 @@ dependencies:
   equatable: ^2.0.3
   shared_preferences: ^2.0.15
   persistent_bottom_nav_bar_v2: ^4.2.3
-  syncfusion_flutter_gauges: ^20.1.59
+  syncfusion_flutter_gauges: ^24.1.41
   dartz: ^0.10.1
   logging: ^1.0.2
-  intl: ^0.17.0
+  intl: ^0.18.1
   cached_network_image: ^3.2.1
   cron: ^0.5.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.1
   build_runner:
-  injectable_generator: ^1.5.3
+  injectable_generator: ^2.4.1
   change_app_package_name: ^1.1.0
 
 flutter_intl:
